@@ -43,6 +43,8 @@ $("#Micbtn").click(function () {
 
     $("#SiriWave").attr("hidden", false);
 
+	eel.takeCommand()()
+
 });
 });
 
